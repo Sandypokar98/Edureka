@@ -1,2 +1,2 @@
-# Edurek
+# Edureka
 This is second repository
